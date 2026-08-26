@@ -1,0 +1,20 @@
+# environment / secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# app data (do not commit real receipts or a populated database)
+data/app.db
+data/uploads/
+*.db-journal
+
+# OS
+.DS_Store
+
+# streamlit
+.streamlit/secrets.toml
