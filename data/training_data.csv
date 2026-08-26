@@ -1,0 +1,721 @@
+text,category
+"IndiGo Airlines
+Fuel diesel 5L
+Amount Paid 599",Travel
+"Mahanagar Gas
+Water bill charges
+Bill Amount INR 999",Utilities
+"Flipkart
+Bluetooth Speaker
+Amount Paid INR 99",Shopping
+"Reliance Digital
+Backpack
+Order Total Rs 450",Shopping
+"Airtel Broadband
+Electricity bill units
+Total Payable Rs 450",Utilities
+"Adobe Creative Cloud
+Cloud hosting charges
+Amount Charged 720",Software
+"Airtel Broadband
+Broadband monthly charge
+Amount Due 1850",Utilities
+"Blinkit
+Milk packet x4
+Amount Paid INR 450",Groceries
+"Reliance Digital
+Backpack
+Order Total Rs 399",Shopping
+"Delhi Jal Board
+Piped gas charges
+Amount Due 720",Utilities
+"Faasos
+Paneer Tikka
+Bill Total 1200",Food
+"Udemy
+Certification fee
+Amount Paid INR 450",Education
+"BookMyShow
+Movie ticket x2
+Amount Paid 720",Entertainment
+"BookMyShow
+Monthly subscription
+Amount Paid 149",Entertainment
+"NoBroker Rent Payment
+Monthly house rent
+Rent Amount 1850",Rent
+"Delhi Jal Board
+Water bill charges
+Total Payable Rs 99",Utilities
+"Jio Recharge
+DTH recharge
+Amount Paid INR 599",Bills
+"Nykaa
+Cotton T-Shirt
+Grand Total 1200",Shopping
+"Ajio
+Backpack
+Amount Paid INR 599",Shopping
+"DMart
+Milk packet x4
+Order Total 1850",Groceries
+"Amazon.in
+Running Shoes
+Grand Total 399",Shopping
+"Vodafone Idea
+DTH recharge
+Bill Amount 999",Bills
+"Delhi Jal Board
+Electricity bill units
+Amount Due 1200",Utilities
+"BookMyShow
+Movie ticket x2
+Amount Paid 250",Entertainment
+"Local Stationery Shop
+Service charge
+Amount Paid 250",Other
+"Local Stationery Shop
+Haircut service
+Total Rs 1200",Other
+"Indian Oil Petrol Pump
+Train ticket PNR
+Grand Total INR 720",Travel
+"Ola Cabs
+Hotel booking
+Amount Paid 99",Travel
+"Indian Oil Petrol Pump
+Flight booking
+Total Fare Rs 999",Travel
+"BSES Electricity
+Water bill charges
+Amount Due 1850",Utilities
+"Blinkit
+Vegetables assorted
+Grand Total Rs 599",Groceries
+"Figma Inc
+Cloud hosting charges
+Total Rs 1200",Software
+"Spotify Premium
+Monthly subscription
+Amount Paid 1850",Entertainment
+"Fortis Clinic
+Health checkup package
+Bill Total 99",Healthcare
+"INOX Movies
+Popcorn combo
+Amount Paid 399",Entertainment
+"Barbeque Nation
+Cold Coffee
+Bill Total 1850",Food
+"Netflix
+Concert ticket
+Amount Paid 99",Entertainment
+"PG Accommodation
+Rent for flat
+Total Rent Paid Rs 250",Rent
+"Apollo Pharmacy
+Diagnostic test
+Bill Total 99",Healthcare
+"Vodafone Idea
+DTH recharge
+Bill Amount 999",Bills
+"Vodafone Idea
+DTH recharge
+Amount Paid INR 450",Bills
+"Airtel Postpaid
+DTH recharge
+Amount Paid INR 450",Bills
+"BookMyShow
+Monthly subscription
+Grand Total INR 999",Entertainment
+"Zepto
+Rice 10kg
+Amount Paid INR 1200",Groceries
+"Adobe Creative Cloud
+Cloud hosting charges
+Total Amount USD 399",Software
+"INOX Movies
+Concert ticket
+Grand Total INR 999",Entertainment
+"INOX Movies
+Concert ticket
+Total Amount Rs 1200",Entertainment
+"DMart
+Atta 5kg
+Amount Paid INR 99",Groceries
+"City Municipal Office
+Service charge
+Amount Paid 1850",Other
+"Behrouz Biryani
+Cold Coffee
+Bill Total 399",Food
+"Udemy
+Course purchase
+Amount Paid INR 1850",Education
+"IRCTC
+Trip fare
+Total Fare Rs 1850",Travel
+"NoBroker Rent Payment
+Monthly house rent
+Total Rent Paid Rs 450",Rent
+"Zepto
+Vegetables assorted
+Amount Paid INR 999",Groceries
+"Fortis Clinic
+Doctor consultation fee
+Total Amount Rs 250",Healthcare
+"NoBroker Rent Payment
+PG rent receipt
+Total Rent Paid Rs 999",Rent
+"Udemy
+Course purchase
+Grand Total 999",Education
+"IRCTC
+Flight booking
+Total Fare Rs 450",Travel
+"Faasos
+Paneer Tikka
+Bill Total 149",Food
+"IIT Delhi Fee Office
+Course purchase
+Total Paid Rs 1200",Education
+"Landlord Receipt
+Rent for flat
+Amount Paid INR 250",Rent
+"Jio Recharge
+DTH recharge
+Bill Amount 1850",Bills
+"City Municipal Office
+Haircut service
+Bill Total INR 599",Other
+"Indian Oil Petrol Pump
+Hotel booking
+Grand Total INR 149",Travel
+"DMart
+Atta 5kg
+Grand Total Rs 1850",Groceries
+"Vercel Inc
+Cloud hosting charges
+Total Rs 99",Software
+"Coursera
+Workshop registration
+Grand Total 450",Education
+"Ajio
+Bluetooth Speaker
+Grand Total 149",Shopping
+"Cafe Coffee Day
+Chicken Biryani x1
+Total Amount INR 599",Food
+"PG Accommodation
+Monthly house rent
+Amount Paid INR 450",Rent
+"Rapido
+Trip fare
+Amount Paid 720",Travel
+"BSES Electricity
+Electricity bill units
+Bill Amount INR 720",Utilities
+"Dominos Pizza
+Chicken Biryani x1
+Grand Total Rs 720",Food
+"Vodafone Idea
+DTH recharge
+Bill Amount 599",Bills
+"Landlord Receipt
+Monthly house rent
+Amount Paid INR 149",Rent
+"BookMyShow
+Concert ticket
+Grand Total INR 250",Entertainment
+"Jio Recharge
+Postpaid bill payment
+Bill Amount 149",Bills
+"PharmEasy
+Doctor consultation fee
+Amount Paid INR 399",Healthcare
+"Reliance Fresh
+Cooking oil 1L
+Order Total 149",Groceries
+"Udemy
+Course purchase
+Grand Total 1200",Education
+"Behrouz Biryani
+Cold Coffee
+Grand Total Rs 149",Food
+"Nykaa
+Cotton T-Shirt
+Order Total Rs 999",Shopping
+"Blinkit
+Vegetables assorted
+Grand Total Rs 1200",Groceries
+"Reliance Digital
+Running Shoes
+Amount Paid INR 1200",Shopping
+"PG Accommodation
+Rent for flat
+Rent Amount 399",Rent
+"NoBroker Rent Payment
+Monthly house rent
+Rent Amount 99",Rent
+"BigBasket
+Milk packet x4
+Order Total 149",Groceries
+"Max Hospital
+Diagnostic test
+Bill Total 149",Healthcare
+"NoBroker Rent Payment
+PG rent receipt
+Total Rent Paid Rs 999",Rent
+"Practo
+Health checkup package
+Bill Total 450",Healthcare
+"Behrouz Biryani
+Chicken Biryani x1
+Total Amount INR 450",Food
+"Zomato
+Margherita Pizza
+Grand Total Rs 149",Food
+"Nykaa
+Cotton T-Shirt
+Order Total Rs 149",Shopping
+"Adobe Creative Cloud
+Pro Plan Subscription
+Total Amount USD 720",Software
+"Mahanagar Gas
+Broadband monthly charge
+Amount Due 450",Utilities
+"Flipkart
+Cotton T-Shirt
+Order Total Rs 599",Shopping
+"Barbeque Nation
+Cold Coffee
+Grand Total Rs 999",Food
+"Nykaa
+Cotton T-Shirt
+Amount Paid INR 149",Shopping
+"Vercel Inc
+Pro Plan Subscription
+Total Amount USD 720",Software
+"Zepto
+Rice 10kg
+Amount Paid INR 1200",Groceries
+"Faasos
+Chicken Biryani x1
+Grand Total Rs 399",Food
+"Swiggy
+Margherita Pizza
+Grand Total Rs 1200",Food
+"OpenAI
+Cloud hosting charges
+Total Amount USD 999",Software
+"Cafe Coffee Day
+Paneer Tikka
+Total Amount INR 250",Food
+"Udemy
+Certification fee
+Total Paid Rs 1850",Education
+"Apollo Pharmacy
+Health checkup package
+Bill Total 99",Healthcare
+"Zepto
+Milk packet x4
+Grand Total Rs 450",Groceries
+"Reliance Fresh
+Vegetables assorted
+Amount Paid INR 250",Groceries
+"BookMyShow
+Concert ticket
+Amount Paid 450",Entertainment
+"Airtel Postpaid
+DTH recharge
+Total Amount Rs 999",Bills
+"Udemy
+Course purchase
+Amount Paid INR 1850",Education
+"GitHub Inc
+Pro Plan Subscription
+Amount Charged 149",Software
+"IIT Delhi Fee Office
+Course purchase
+Grand Total 1200",Education
+"PG Accommodation
+Monthly house rent
+Total Rent Paid Rs 399",Rent
+"Barbeque Nation
+Chicken Biryani x1
+Bill Total 399",Food
+"Vodafone Idea
+Postpaid bill payment
+Amount Paid INR 599",Bills
+"Coursera
+Semester tuition fee
+Total Paid Rs 450",Education
+"Apollo Pharmacy
+Diagnostic test
+Amount Paid INR 720",Healthcare
+"Salon
+Stationery items
+Total Rs 399",Other
+"Amazon.in
+Backpack
+Grand Total 149",Shopping
+"NoBroker Rent Payment
+Rent for flat
+Total Rent Paid Rs 149",Rent
+"Airtel Postpaid
+Postpaid bill payment
+Amount Paid INR 999",Bills
+"Salon
+Stationery items
+Bill Total INR 1850",Other
+"IndiGo Airlines
+Flight booking
+Grand Total INR 1200",Travel
+"Courier Service
+Stationery items
+Bill Total INR 999",Other
+"DMart
+Atta 5kg
+Grand Total Rs 720",Groceries
+"Max Hospital
+Diagnostic test
+Total Amount Rs 149",Healthcare
+"Netflix
+Movie ticket x2
+Total Amount Rs 250",Entertainment
+"BYJU'S
+Course purchase
+Total Paid Rs 450",Education
+"Salon
+Service charge
+Bill Total INR 720",Other
+"BYJU'S
+Certification fee
+Amount Paid INR 720",Education
+"Netflix
+Concert ticket
+Amount Paid 99",Entertainment
+"Max Hospital
+Medicine strip
+Bill Total 399",Healthcare
+"Rapido
+Trip fare
+Grand Total INR 149",Travel
+"Local Stationery Shop
+Miscellaneous payment
+Total Rs 99",Other
+"GitHub Inc
+Cloud hosting charges
+Amount Charged 999",Software
+"OpenAI
+Pro Plan Subscription
+Total Amount USD 1200",Software
+"Vodafone Idea
+Mobile recharge plan
+Amount Paid INR 399",Bills
+"Jio Recharge
+DTH recharge
+Total Amount Rs 599",Bills
+"Delhi Jal Board
+Water bill charges
+Amount Due 720",Utilities
+"IIT Delhi Fee Office
+Semester tuition fee
+Amount Paid INR 399",Education
+"BookMyShow
+Concert ticket
+Amount Paid 1850",Entertainment
+"Notion Labs
+Cloud hosting charges
+Total Amount USD 450",Software
+"Behrouz Biryani
+Cold Coffee
+Grand Total Rs 399",Food
+"Uber
+Trip fare
+Total Fare Rs 250",Travel
+"Netflix
+Monthly subscription
+Amount Paid 720",Entertainment
+"Airtel Postpaid
+Mobile recharge plan
+Total Amount Rs 450",Bills
+"Coursera
+Semester tuition fee
+Amount Paid INR 1850",Education
+"Rapido
+Bike ride
+Grand Total INR 450",Travel
+"Courier Service
+Haircut service
+Total Rs 999",Other
+"Zepto
+Vegetables assorted
+Order Total 399",Groceries
+"Notion Labs
+Monthly API credits
+Total Rs 1850",Software
+"City Municipal Office
+Miscellaneous payment
+Total Rs 399",Other
+"BSES Electricity
+Piped gas charges
+Bill Amount INR 399",Utilities
+"Fortis Clinic
+Doctor consultation fee
+Bill Total 250",Healthcare
+"Notion Labs
+Monthly API credits
+Total Rs 999",Software
+"Delhi Jal Board
+Broadband monthly charge
+Amount Due 1200",Utilities
+"Vercel Inc
+Cloud hosting charges
+Amount Charged 399",Software
+"Vodafone Idea
+Mobile recharge plan
+Bill Amount 250",Bills
+"Indian Oil Petrol Pump
+Fuel diesel 5L
+Amount Paid 599",Travel
+"IRCTC
+Train ticket PNR
+Total Fare Rs 1200",Travel
+"Courier Service
+Miscellaneous payment
+Total Rs 399",Other
+"BigBasket
+Atta 5kg
+Order Total 399",Groceries
+"Amazon.in
+Bluetooth Speaker
+Amount Paid INR 399",Shopping
+"Courier Service
+Miscellaneous payment
+Total Rs 399",Other
+"Salon
+Haircut service
+Amount Paid 1850",Other
+"City Municipal Office
+Stationery items
+Bill Total INR 99",Other
+"Barbeque Nation
+Veg Thali
+Grand Total Rs 99",Food
+"PVR Cinemas
+Concert ticket
+Total Amount Rs 250",Entertainment
+"Figma Inc
+Monthly API credits
+Total Amount USD 1850",Software
+"Amazon.in
+Running Shoes
+Grand Total 250",Shopping
+"OpenAI
+Monthly API credits
+Amount Charged 999",Software
+"PVR Cinemas
+Concert ticket
+Amount Paid 99",Entertainment
+"PG Accommodation
+Rent for flat
+Total Rent Paid Rs 720",Rent
+"Cafe Coffee Day
+Margherita Pizza
+Total Amount INR 1850",Food
+"Rapido
+Flight booking
+Grand Total INR 1850",Travel
+"Airtel Broadband
+Electricity bill units
+Bill Amount INR 720",Utilities
+"PharmEasy
+Health checkup package
+Amount Paid INR 399",Healthcare
+"Blinkit
+Vegetables assorted
+Grand Total Rs 99",Groceries
+"Ola Cabs
+Train ticket PNR
+Grand Total INR 999",Travel
+"Reliance Fresh
+Milk packet x4
+Grand Total Rs 399",Groceries
+"Adobe Creative Cloud
+Team seat renewal
+Total Amount USD 399",Software
+"Nykaa
+Face Wash
+Order Total Rs 1200",Shopping
+"Airtel Postpaid
+Mobile recharge plan
+Bill Amount 1850",Bills
+"City Municipal Office
+Miscellaneous payment
+Total Rs 450",Other
+"PG Accommodation
+Monthly house rent
+Amount Paid INR 250",Rent
+"BSES Electricity
+Broadband monthly charge
+Bill Amount INR 450",Utilities
+"Spotify Premium
+Monthly subscription
+Grand Total INR 720",Entertainment
+"Coursera
+Semester tuition fee
+Total Paid Rs 599",Education
+"Courier Service
+Haircut service
+Amount Paid 1200",Other
+"Amazon.in
+Cotton T-Shirt
+Amount Paid INR 149",Shopping
+"Barbeque Nation
+Chicken Biryani x1
+Total Amount INR 149",Food
+"Zepto
+Rice 10kg
+Order Total 999",Groceries
+"PharmEasy
+Diagnostic test
+Amount Paid INR 1200",Healthcare
+"BSES Electricity
+Piped gas charges
+Amount Due 1850",Utilities
+"Landlord Receipt
+Rent for flat
+Rent Amount 99",Rent
+"Faasos
+Chicken Biryani x1
+Grand Total Rs 450",Food
+"BSES Electricity
+Broadband monthly charge
+Amount Due 399",Utilities
+"Practo
+Health checkup package
+Amount Paid INR 720",Healthcare
+"Jio Recharge
+Mobile recharge plan
+Amount Paid INR 720",Bills
+"IndiGo Airlines
+Hotel booking
+Amount Paid 250",Travel
+"City Municipal Office
+Service charge
+Total Rs 1200",Other
+"Vercel Inc
+Monthly API credits
+Total Amount USD 149",Software
+"IIT Delhi Fee Office
+Course purchase
+Grand Total 599",Education
+"Rapido
+Hotel booking
+Total Fare Rs 1200",Travel
+"Practo
+Doctor consultation fee
+Total Amount Rs 399",Healthcare
+"Dominos Pizza
+Cold Coffee
+Grand Total Rs 399",Food
+"BookMyShow
+Popcorn combo
+Grand Total INR 99",Entertainment
+"Airtel Postpaid
+Mobile recharge plan
+Bill Amount 450",Bills
+"Salon
+Haircut service
+Bill Total INR 1850",Other
+"Apollo Pharmacy
+Diagnostic test
+Total Amount Rs 450",Healthcare
+"NoBroker Rent Payment
+Monthly house rent
+Rent Amount 149",Rent
+"GitHub Inc
+Pro Plan Subscription
+Total Amount USD 250",Software
+"BSES Electricity
+Broadband monthly charge
+Bill Amount INR 599",Utilities
+"NoBroker Rent Payment
+Rent for flat
+Rent Amount 720",Rent
+"Practo
+Medicine strip
+Bill Total 1850",Healthcare
+"Udemy
+Certification fee
+Amount Paid INR 149",Education
+"Ajio
+Wireless Mouse
+Amount Paid INR 450",Shopping
+"Ola Cabs
+Trip fare
+Amount Paid 720",Travel
+"Landlord Receipt
+Monthly house rent
+Rent Amount 250",Rent
+"IIT Delhi Fee Office
+Certification fee
+Total Paid Rs 1200",Education
+"IIT Delhi Fee Office
+Certification fee
+Grand Total 1850",Education
+"Fortis Clinic
+Medicine strip
+Total Amount Rs 149",Healthcare
+"Coursera
+Semester tuition fee
+Amount Paid INR 599",Education
+"Salon
+Haircut service
+Total Rs 1850",Other
+"Indian Oil Petrol Pump
+Train ticket PNR
+Total Fare Rs 999",Travel
+"BSES Electricity
+Water bill charges
+Amount Due 720",Utilities
+"DMart
+Vegetables assorted
+Amount Paid INR 1850",Groceries
+"PG Accommodation
+Rent for flat
+Rent Amount 99",Rent
+"Practo
+Health checkup package
+Total Amount Rs 250",Healthcare
+"Netflix
+Popcorn combo
+Amount Paid 599",Entertainment
+"Nykaa
+Running Shoes
+Grand Total 99",Shopping
+"Vercel Inc
+Monthly API credits
+Total Amount USD 999",Software
+"PharmEasy
+Doctor consultation fee
+Amount Paid INR 149",Healthcare
+"NoBroker Rent Payment
+PG rent receipt
+Amount Paid INR 450",Rent
+"Mahanagar Gas
+Broadband monthly charge
+Amount Due 999",Utilities
+"Airtel Broadband
+Water bill charges
+Bill Amount INR 450",Utilities
+"Nykaa
+Cotton T-Shirt
+Order Total Rs 599",Shopping
+"Jio Recharge
+Postpaid bill payment
+Bill Amount 250",Bills
+"Airtel Postpaid
+Postpaid bill payment
+Amount Paid INR 450",Bills
