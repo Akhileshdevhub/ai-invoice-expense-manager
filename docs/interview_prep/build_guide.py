@@ -133,7 +133,7 @@ def build():
         topMargin=0.75 * inch, bottomMargin=0.75 * inch,
         leftMargin=0.85 * inch, rightMargin=0.85 * inch,
         title="AI Invoice & Expense Manager — Interview Preparation Guide",
-        author="Ayush",
+        author="Akhilesh",
     )
 
     story = []
@@ -163,7 +163,7 @@ def build():
         styles["Cover"],
     ))
     story.append(Spacer(1, 0.4 * inch))
-    story.append(Paragraph("Author: Ayush &nbsp;&nbsp;|&nbsp;&nbsp; Project: ai-invoice-expense-manager", styles["Cover"]))
+    story.append(Paragraph("Author: Akhilesh &nbsp;&nbsp;|&nbsp;&nbsp; Project: ai-invoice-expense-manager", styles["Cover"]))
     story.append(PageBreak())
 
     # ---- 1. Elevator pitches ----
