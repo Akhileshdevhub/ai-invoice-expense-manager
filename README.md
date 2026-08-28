@@ -261,4 +261,4 @@ depth), and three versions of CV bullet points. Built from
 
 ## Author
 
-Built by Ayush as a portfolio project.
+Built by Akhilesh as a portfolio project.
