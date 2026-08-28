@@ -250,15 +250,6 @@ history, bank-statement/email ingestion, multi-user auth.
   transactions) is entirely synthetic — no real receipts or real
   financial data were used anywhere in this project.
 
-## Interview Preparation Guide
-
-`docs/interview_prep/Interview_Prep_Guide.pdf` — pitches (30-second and
-2-minute), full architecture, a code walkthrough of the major files, a
-curated interview Q&A bank (~65 questions across 10 categories, full
-depth), and three versions of CV bullet points. Built from
-`docs/interview_prep/content.py` and `qa_bank.py` — regenerate with
-`python docs/interview_prep/build_guide.py`.
-
 ## Author
 
 Built by Akhilesh as a portfolio project.
